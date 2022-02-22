@@ -1,0 +1,232 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the proceedings against Richard Alborrow, Oliver Hawley and John Condon for robing the King's male, on the 12th day of April last past, at or near Illford in the county of Essex, who was tryed at the Kings-bench-barr, Westminster.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25664</idno>
+            <idno type="STC">Wing A350</idno>
+            <idno type="STC">ESTC R14505</idno>
+            <idno type="EEBO-CITATION">12390914</idno>
+            <idno type="OCLC">ocm 12390914</idno>
+            <idno type="VID">60995</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25664)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60995)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 931:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the proceedings against Richard Alborrow, Oliver Hawley and John Condon for robing the King's male, on the 12th day of April last past, at or near Illford in the county of Essex, who was tryed at the Kings-bench-barr, Westminster.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. Mallet ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1686]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Imprint taken from colophon.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Condon, John, d. 1686?</term>
+               <term>Hawley, Oliver, d. 1686?</term>
+               <term>Alborrow, Richard, d. 1686?</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:60995:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 52 -->
+            <head>AN ACCOUNT OF THE PROCEEDINGS AGAINST <hi>Richard Alborrow, Oliver Hawley</hi> and <hi>John Condon,</hi> FOR Robing the King's <hi>Male,</hi> on the 12th. Day of <hi>April</hi> laſt paſt, at or near ILLFORD in the County of ESSEX: Who was Tryed at the King's-Beneh-Barr, <hi>Weſtminſter.</hi>
+            </head>
+            <p>THE Priſoners being brought from <hi>Newgate</hi> by the Keeper, <hi>&amp;c.</hi> to the <hi>King's Bench-Bar,</hi> on <hi>Tueſday</hi> the 22d. of <hi>June,</hi> 1686. And having been Arraigned about the Beginning of this <hi>Term:</hi> The former pleaded Guilty to his Arraignment; but the two latter pleading not Guilty, they were brought to their Tryale before Mr. Juſtice <hi>Wythins,</hi> &amp;c.</p>
+            <pb n="2" facs="tcp:60995:2"/>
+            <!-- PDF PAGE 53 -->
+            <p>The Jury were Gentlemen of the County of <hi>Eſſex,</hi> and are as followeth, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>Simon Thorowgood</hi> 
+                  <abbr>Eſq</abbr>
+               </item>
+               <item>
+                  <hi>Henry Luther</hi> 
+                  <abbr>Eſq</abbr>
+               </item>
+               <item>
+                  <hi>William Frith</hi> 
+                  <abbr>Eſq</abbr>
+               </item>
+               <item>
+                  <hi>Mark Wynn</hi> 
+                  <abbr>Eſq</abbr>
+               </item>
+               <item>
+                  <hi>Ralph Thickneſs</hi> 
+                  <abbr>Eſq</abbr>
+               </item>
+               <item>
+                  <hi>William Luther</hi> 
+                  <abbr>Eſq</abbr>
+               </item>
+               <item>
+                  <hi>John German,</hi>
+               </item>
+               <item>
+                  <hi>John Lockey,</hi>
+               </item>
+               <item>
+                  <hi>John Pool,</hi>
+               </item>
+               <item>
+                  <hi>John Pool</hi> of <hi>Burworth-Green,</hi>
+               </item>
+               <item>
+                  <hi>Robert Dent,</hi>
+               </item>
+               <item>
+                  <hi>Nicholas Carleton</hi> Gent.</item>
+            </list>
+            <p>Then Sr. <hi>Samuel Aſtrey,</hi> Clark of the Crown, read the Indict<g ref="char:EOLhyphen"/>ment, which ſet forth the Weight and Value of the Gold, as followeth, <hi>viz.</hi>
+            </p>
+            <p>
+               <q>
+                  <hi>One Wedge of Gold, weighing Seventy eight Ounces and an half, value</hi> 314 <hi>l. One little Purſe, wherein was many Forreign pieces of Gold, weighing Ninety nine Ounces, value</hi> 396 <hi>l. One other Wedge, weighing one Hundred twenty two Ounces, value</hi> 488 <hi>l. One other little Bag, containing ſeveral Forreign pieces, weighing Six hund<g ref="char:EOLhyphen"/>red and nine Ounces and an half, value</hi> 278 <hi>l. One other Wedge weighing Six hundred and one Ounces and an half, value</hi> 267 <hi>l. One other Wedge weighing One hundred ninety and two Ounces, value</hi> 768 <hi>l. One other-little Linnen purſe, containing therein One hundred and fifteen Ounces and an half of Gold, value</hi> 462 <hi>l. Wedge weighing Seventy eight Ounces and an half, value</hi> 314 <hi>l. One other Wedge, containing Eighty Ounces, value</hi> 320 <hi>l. Another of Eighty nine Ounces and an half, value</hi> 358 <hi>l. Another Wedge weighing Eighty eight Ounces, value</hi> 352 <hi>l. Another Wedge of Fourty ſeven Ounces, value</hi> 188 <hi>l. One other Wedge of Twenty three Ounces value</hi> 92 <hi>l. One other little Bag, containing One hundred and ſix Ounces and an half, value</hi> 453 <hi>l. Thirty five Ounces more, value</hi> 140 <hi>l. Thirty three Ounces, value</hi> 132 <hi>l.</hi> All, the Goods of Mr. <hi>Alvarius de Coſti,</hi> Mr. <hi>Andrew Alvarius,</hi> and Mr. <hi>Abra. Fenew,</hi> and Feloniouſly taken away from <hi>John Gelp,</hi> the King's Poſt, at the place aforeſaid, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Richard Alborrow,</hi> being asked whether he was Guilty or not Guilty, ſaid, <hi>My Lord I am Guilty, and I Pleaded ſo the laſt time I was here,</hi> and likewiſe that he had nothing to ſay material for himſelf, but that he hoped the King would extend his Mercy and Clemency towards him, ſeeing he was ſo very Penitent for his great Crime: So the Court pronounced the uſual Sentence againſt him, and he was immediately taken from the Bar.</p>
+            <p>Then the King's Council Proceeded againſt the other two, <hi>viz. Oliver Hawly</hi> and <hi>John Condon,</hi> and called their Wit<g ref="char:EOLhyphen"/>neſſes; the firſt of which was the Poſt-Boy, who gave in Evi<g ref="char:EOLhyphen"/>dence that as he was Riding along the Road near <hi>Ilford,</hi> afore<g ref="char:EOLhyphen"/>ſaid, two Men Set upon him and bid him ſtand, and took
+<pb n="3" facs="tcp:60995:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 53 -->
+his <hi>Male</hi> and opened it; and took out all the aforeſaid Gold, and Rode towards <hi>London</hi> with it but he did not know who they were that Rob'd him.</p>
+            <p>The next Witneſs was an <hi>Oſtler,</hi> who proved that he was hired to take Horſes from <hi>London</hi> to <hi>Stratford,</hi> by Mr. <hi>Condon,</hi> and that <hi>Alborrow, Hawley,</hi> and <hi>Condon,</hi> and one <hi>Smith,</hi> (who is fled from Juſtice) came in a Coach on the <hi>Monday</hi> Mor<g ref="char:EOLhyphen"/>ning to <hi>Stratford,</hi> and the <hi>Oſtler</hi> came back in the ſame Coach, but he could ſay nothing as to the matter of Fact.</p>
+            <p>The next Witneſs was the Coachman that carryed them, who gave in Evidence that he took up the Four aforeſaid per<g ref="char:EOLhyphen"/>ſons at the <hi>Horſbooe Tavern</hi> in the <hi>Strand,</hi> and that they bid h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m Drive them to <hi>Stratford,</hi> where he leſt them and brought the <hi>Oſtler</hi> back.</p>
+            <p>The next Witneſs was one Mr. <hi>Jones</hi> the Inn-keeper at <hi>Strat<g ref="char:EOLhyphen"/>ford;</hi> who proved that the Priſoners and <hi>Smith,</hi> Dined at his houſe on <hi>Monday</hi> in the <hi>Afternoon,</hi> about Three a Clock, and that he Le<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t them two Horſes to go to my Lord <hi>Peters</hi>'s, near <hi>
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>rſtone:</hi> (as they told him) and that he had his Horſes again by Eight a Clock the next Morning.</p>
+            <p>The next Witneſs was one Mr <hi>Gibſon,</hi> an Inn-keeper at <hi>Rum<g ref="char:EOLhyphen"/>ford,</hi> who gave in Evidence that the aforeſaid four perſons, Dined at his houſe the day before the Robery was Commit<g ref="char:EOLhyphen"/>ted, but he could not tell what time they went out of his houſe, for that he was very buſie amongſt his Gueſts.</p>
+            <p>The next Witneſs was one Mr. <hi>Wright,</hi> who gave in Evi<g ref="char:EOLhyphen"/>adence, that <hi>Hawley</hi> and <hi>Condon</hi> were brought in before him, and that he Exhorted them to make an ingenious Confeſſion, and that he did Examine them, and cauſed them to be ſearch<g ref="char:EOLhyphen"/>ed, and that <hi>Condon</hi> put his Hand in his Pocket himſelf vo<g ref="char:EOLhyphen"/>untarily, and brought forth about Five and Forty Pieces of Forreign Gold, and ſome Duccatoons, which were produced in Court; and that he owned it to be the ſame Gold that was taken out of the <hi>Male,</hi> as aforeſaid.</p>
+            <p>The Priſoners both owned the Examination, that it was their own Hands that Subſcribed it; and it was Read in Court, which was, <hi>That</hi> Hawley <hi>did Confeſs that</hi> Alborrow <hi>and</hi> Smith <hi>did Commit the Robery aforeſaid: And that the Money was ſhared in</hi> Long-Acre, <hi>at</hi> Condon's <hi>Houſe; and there they devided the Spoil,</hi> &amp;c.</p>
+            <p>There were ſome other Witneſſes upon the Tryal, that pro<g ref="char:EOLhyphen"/>ved the Matter of Fact very fully upon them, that they were Acceſſary and Abettors to the ſaid Robery; and they making but a very frivolous and weak Defence for themſelves, ſpea<g ref="char:EOLhyphen"/>king nothing material to the Matter in their own Defence, whereby it might be made appear to the Court that they were not concerned in the ſaid Robery: And furthermore, having no Witneſſes on their Sides, but their own Words; the Court
+<pb n="4" facs="tcp:60995:3"/>
+               <!-- PDF PAGE 54 -->
+thereupon proceeded to ſum up the Evidence; which was per<g ref="char:EOLhyphen"/>formed by Mr. Juſtice <hi>Wythins;</hi> who informed the Jury that the Caſe was very plain before them; and that if they belie<g ref="char:EOLhyphen"/>ved the perſons at the Bar to be the perſons Acceſs<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry to the Robery, then they ought to find them Guilty; and that the caſe being ſo clear, he would not acquaint them what was Evidence and what was not, and that he would not trouble them any further, but leave it to their own Conſciences; and if they found it that the two Priſoners at the Bar were concerned as Acceſſaries to the other two, then they muſt be hanged for it, <hi>&amp;c.</hi>
+            </p>
+            <p>Then the <hi>Jury</hi> went out for the ſpace of half an Hour, and returning, brought in their Virdict; that they were both Guilty of the Rob<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry, alledged againſt them in their Indict<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>.</p>
+            <p>Then the Keeper took back his Priſoners to <hi>Newgate</hi> in a Coach, and the Court Ordered him to bring them down <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Morrow, to Receive Sentence as the Law Directs.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>This may be Printed,</p>
+                        <closer>
+                           <signed>R. P.</signed> 
+                           <dateline>
+                              <date>the 22d. of <hi>June.</hi> 1686.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>E. Mallet,</hi> next Door to Mr. <hi>Shipter's</hi> Coffee-Houſe, near <hi>Fleet-Bridge.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
